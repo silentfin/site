@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category1 on silentfin</title>
+    <link>http://localhost:1313/categories/category1/</link>
+    <description>Recent content in Category1 on silentfin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 silentfin</copyright>
+    <lastBuildDate>Fri, 30 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/category1/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Your Post Title</title>
+      <link>http://localhost:1313/posts/lolpost/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/lolpost/</guid>
+      <description>Shows on post list page.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
