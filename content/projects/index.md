@@ -20,5 +20,5 @@ draft: false
 - [Tascy](https://github.com/silentfin/tascy) - a simple CLI to-do list made with Python & SQLite
 <!-- {{< github repo="silentfin/tascy" showThumbnail=true >}} -->
 
-- [Qwik](https://github.com/silentfin/qwik) - a simple Python script to generate customizable QR codes.
+- [Qwik](https://github.com/silentfin/qwik) - a simple Python script to generate customizable QR codes
 <!-- {{< github repo="silentfin/qwik" showThumbnail=true >}} -->
