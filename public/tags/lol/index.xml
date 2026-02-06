@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lol on silentfin</title><link>https://silentfin.com/tags/lol/</link><description>Recent content in Lol on silentfin</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026 silentfin</copyright><lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://silentfin.com/tags/lol/index.xml" rel="self" type="application/rss+xml"/><item><title>LOLOLOLOLOLOLOLOLOL</title><link>https://silentfin.com/posts/anotherpost/</link><pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate><guid>https://silentfin.com/posts/anotherpost/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lol on silentfin</title>
+    <link>http://localhost:1313/tags/lol/</link>
+    <description>Recent content in Lol on silentfin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 silentfin</copyright>
+    <lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/lol/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>LOLOLOLOLOLOLOLOLOL</title>
+      <link>http://localhost:1313/posts/anotherpost/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/anotherpost/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
