@@ -1,7 +1,7 @@
 ---
 title: "Why I'm writing this at 5AM"
 date: 2026-02-07
-# lastmod: 2025-01-25
+# lastmod: 2026-02-07
 description: "its 5AM now, i need to sleep ASAP"
 summary: "its 5AM now, i need to sleep ASAP"
 tags: ["life"]
