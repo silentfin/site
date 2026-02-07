@@ -4,7 +4,7 @@ date: 2026-02-06
 lastmod: 2026-02-07
 description: "stuff i've built"
 summary: "stuff i've built"
-tags: ["projects","github", "python"]
+# tags: ["projects","github", "python"]
 draft: false
 showDate: false
 showDateUpdated: true
