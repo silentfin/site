@@ -49,6 +49,11 @@ Assertion 'p' failed at pulse/simple.c:315, function pa_simple_read(). Aborting.
 
 *The following steps were all performed on Niri (Wayland).*
 
+First, `cd` into Transcreen directory
+```bash
+cd /opt/Transcreen
+```
+
 ### Forced the app to use XWayland
 I first installed this package 
 ```bash
