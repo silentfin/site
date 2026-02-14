@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 date: 2026-02-06
-lastmod: 2026-02-07
+lastmod: 2026-02-14
 description: "stuff i've built"
 summary: "stuff i've built"
 # tags: ["projects","github", "python"]
@@ -12,7 +12,7 @@ showWordCount: false
 showReadingTime: false
 ---
 
-- [**url-shortener**](https://github.com/silentfin/url-shortener) (WIP) - a url-shortener made with FastAPI & PostgreSQL
+- [**url-shortener**](https://745368.xyz) / [{{< icon "github" >}}](https://github.com/silentfin/url-shortener)  - a url-shortener made with FastAPI & PostgreSQL
 
 - [**dotfiles**](https://github.com/silentfin/dotfiles) - config files for my Arch setup 
 
