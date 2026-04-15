@@ -1,7 +1,7 @@
 ---
 title: "How I Made Transcreen Work on Linux"
 date: 2026-02-09
-# lastmod: 2026-02-09
+lastmod: 2026-04-15
 description: "A guide to fixing Transcreen screen sharing on Linux systems using PipeWire and X11"
 summary: "Fixed Transcreen on Linux using a fake PulseAudio library and X11 (Wayland not supported)."
 tags: ["x11","pipewire","linux","transcreen","screenshare"]
@@ -323,8 +323,9 @@ Here is a picture of it running,
 ![Transcreen running](./transcreen-running.jpg)
 
 ## Conclusion
-I thought to myself that I only have to share my screen rarely and I have already invested so much time debugging it. It works flawlessly now on Cinnamon tho but I really wanted it running on Niri. But this is it for now, maybe in future I will pick this up again and work on it.  
-This was such an amazing debugging session that I had. Got to learn about so many things that I never thought even existed, glad that I finally switched to EndeavourOS from LinuxMint 2 months ago. In the past few months, I learned so many things that I hadn't in the past few years.
+I thought to myself that I only have to share my screen rarely and I have already invested so much time debugging it. It works well on Cinnamon tho but I really wanted it running on Niri. But this is it for now.  
+
+This was such an annoying debugging session that I had. Still, I got to learn about so many things that I never thought even existed.
 
 ---
 
