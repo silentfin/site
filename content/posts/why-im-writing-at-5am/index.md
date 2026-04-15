@@ -5,7 +5,7 @@ date: 2026-02-07
 description: "its 5AM now, i need to sleep ASAP"
 summary: "its 5AM now, i need to sleep ASAP"
 tags: ["life"]
-draft: false
+draft: true
 ---
 
 It's 04:43 AM right now and I'm done with the first decent version of this website and I'm happy now.  
