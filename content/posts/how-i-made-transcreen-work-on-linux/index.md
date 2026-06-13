@@ -5,7 +5,7 @@ lastmod: 2026-04-15
 description: "A guide to fixing Transcreen screen sharing on Linux systems using PipeWire and X11"
 summary: "Fixed Transcreen on Linux using a fake PulseAudio library and X11 (Wayland not supported)."
 tags: ["x11","pipewire","linux","transcreen","screenshare"]
-draft: false
+draft: true
 ---
 
 ## The Problem
